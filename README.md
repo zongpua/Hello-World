@@ -1,2 +1,2 @@
-# Hello-World
+# hello-world
 Practice And Idea
